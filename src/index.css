@@ -1,0 +1,442 @@
+
+*{
+  font-family: "Inter Helvetica Arial", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "cv11", "salt", "ss01", "ss03", "cv01", "cv02", "cv03", "cv04", "cv05", "cv06", "cv09", "cv10";
+  box-sizing: border-box;
+}
+
+.jpLLUW::before {
+    content: "";
+    width: 337px;
+    height: 784px;
+    background-image: url("../public/auth-left-shape.png");
+    background-size: cover;
+    position: absolute;
+    top: 15vh;
+    left: 0px;
+}
+
+.jpLLUW::after {
+    content: "";
+    width: 218px;
+    height: 782px;
+    background-image: url("../public/bg_right.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 15vh;
+    right: 0px;
+}
+
+
+.eIOfZa {
+    display: flex;
+    flex-flow: column;
+    -moz-box-align: center;
+    align-items: center;
+    -moz-box-pack: start;
+    justify-content: flex-start;
+    justify-self: initial;
+    gap: initial;
+    overflow: initial;
+    align-content: initial;
+}
+
+.fetDlP {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 15vh 0px 0px;
+    border-radius: 0px;
+    color: inherit;
+    font-size: inherit;
+    height: 100vh;
+    min-height: initial;
+    flex: 1 1 auto;
+    order: initial;
+    align-self: auto;
+    width: 100%;
+}
+
+.fvXHFm {
+    position: relative;
+    z-index: 3;
+    padding: 0px 30px;
+    width: 40%;
+    margin: auto;
+}
+
+.dBLBwx {
+    display: flex;
+    flex-flow: row;
+    align-items: flex-end;
+    -moz-box-pack: center;
+    justify-content: center;
+    justify-self: initial;
+    gap: initial;
+    overflow: initial;
+    align-content: initial;
+}
+
+.hsyLVN {
+    margin: 0px;
+    padding: 0px 0px 32px;
+    border-radius: 0px;
+    color: inherit;
+    font-size: inherit;
+    width: 100%;
+    height: auto;
+    min-height: initial;
+    flex: 1 1 auto;
+    order: initial;
+    align-self: auto;
+}
+
+.element-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.element-2{
+    box-sizing: border-box;
+    display: block;
+    max-width: 100%;
+}
+
+.eRYzHW.eRYzHW {
+    color: rgb(6, 17, 35);
+}
+
+.eRYzHW {
+    margin: 0px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: -0.04em;
+    text-align: center;
+    word-break: normal;
+    text-decoration: none;
+    text-transform: none;
+    white-space: normal;
+    cursor: inherit;
+}
+
+.ThyJx.ThyJx {
+    color: rgb(99, 109, 126);
+}
+
+.ThyJx {
+    margin: 8px 0px 0px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    word-break: normal;
+    text-decoration: none;
+    text-transform: none;
+    white-space: normal;
+    cursor: inherit;
+}
+
+.cLYjrg {
+    display: block;
+    text-align: left;
+    overflow: initial;
+    border: initial;
+    border-radius: 0px;
+    width: 30%;
+    margin: 0 auto;
+}
+
+.gtfsWd {
+    box-sizing: border-box;
+    background-color: transparent;
+    margin: 32px 0px 0px;
+    padding: 0px;
+    border-radius: 0px;
+    color: inherit;
+    font-size: inherit;
+    min-height: initial;
+    flex: 1 1 auto;
+    order: initial;
+    align-self: auto;
+}
+
+.gswtiz {
+    display: flex;
+    flex-flow: row;
+    -moz-box-align: center;
+    align-items: center;
+    -moz-box-pack: justify;
+    justify-content: space-between;
+    justify-self: initial;
+    gap: initial;
+    overflow: initial;
+    align-content: initial;
+}
+
+.esXaiQ {
+    box-sizing: border-box;
+    background-color: transparent;
+    margin: 0px;
+    padding: 0px;
+    border-radius: 0px;
+    color: inherit;
+    font-size: inherit;
+    width: auto;
+    height: auto;
+    min-height: initial;
+    flex: 1 1 auto;
+    order: initial;
+    align-self: auto;
+}
+
+.dTDndl {
+    display: flex;
+    -moz-box-pack: center;
+    justify-content: center;
+    gap: 12px;
+    border: 1px solid rgb(234, 239, 245);
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 40px;
+    height: 40px;
+    width: 100%;
+    cursor: pointer;
+    align-items: center;
+    color: rgb(6, 17, 35);
+    transition: 300ms;
+}
+
+.dTDndl:hover{
+    border: 1px solid rgb(213, 219, 226);
+}
+
+.dTDndl,a {
+    color: rgb(30, 30, 30);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.container{
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: -0.02em;
+  color: rgb(149, 159, 178);
+  width: 100%;
+  text-align: center;
+  margin: 24px 0px;
+  position: relative;
+}
+
+.container > p::before{
+  content: "";
+  width: 100%;
+  height: 1px;
+  background-color: rgb(234, 239, 245);
+  position: absolute;
+  top: 50%;
+  left: 0px;
+}
+
+.container > p::after{
+  content: "";
+  width: 130px;
+  height: 22px;
+  position: absolute;
+  top: 0px;
+  left: calc(50% - 70px);
+}
+
+.container span{
+    background-color: white;
+    padding: 0 5px;
+    z-index: 100;
+    position: relative;
+}
+
+.error-p{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    color: red;
+    font-weight: 600;
+}
+
+.field{
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+.formulaire{
+    width: 100%;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    width: 30%;
+    margin: 0 auto;
+}
+
+label{
+    font-weight: 600;
+    color: rgb(46, 38, 38);
+}
+
+input{
+    padding: 10px 5px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid rgb(173, 177, 194);
+}
+
+input::placeholder{
+    color: gray;
+    font-weight: 500;
+}
+
+input:hover{
+    border: 1px solid rgb(36, 35, 35);
+    box-shadow: 0.4px 0.4px 0.4px 0.4px rgb(109, 109, 255);
+}
+
+select{
+    padding: 10px 5px;
+    background: none;
+    border: none;
+    border: 1px solid rgb(173, 177, 194);
+    border-radius: 10px;
+}
+
+select:hover{
+    border: 1px solid rgb(36, 35, 35);
+    box-shadow: 0.4px 0.4px 0.4px 0.4px rgb(109, 109, 255);
+}
+
+button{
+  width: 100%;
+  border: 0px;
+  border-radius: 6px;
+  height: 40px;
+  max-height: 40px;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 0px 15px;
+  cursor: pointer;
+  background: rgb(28, 37, 54);
+  color: rgb(255, 255, 255);
+  margin-top: 24px;
+  position: relative;
+  user-select: none;
+}
+
+.back-to-login{
+    text-align: center;
+}
+
+.back-to-login > a{
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  color: rgb(0, 93, 255);
+  margin-top: 24px;
+  cursor: pointer;
+}
+
+.remember-section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.remember-section > a{
+  font-size: 14px;
+  font-weight: 400;
+  color: rgb(0, 93, 255);
+  letter-spacing: -0.02em;
+  display: block;
+  text-align: right;
+  cursor: pointer;
+  user-select: none;
+}
+
+.checkbox-parent{
+    border-radius: 6px;
+    transition: background-color 0.1s, border-color 0.1s;
+    border: 2px solid rgb(192, 199, 211);
+    display: flex;
+    -moz-box-pack: center;
+    justify-content: center;
+    -moz-box-align: center;
+    width: 22px;
+    height: 22px;
+    align-items: center;
+    position: relative;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.checkbox-parent::before{
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.1s, visibility 0.1s;
+}
+
+.checkbox{
+  transition: opacity 0.3s;
+  width: auto;
+  border: none;
+}
+
+.checkbox-parent::after{
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.1s, visibility 0.1s;
+}
+
+.kjHOcA {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    color: rgb(6, 17, 35);
+    margin-left: 8px;
+    user-select: none;
+  }
+
+  
